@@ -141,3 +141,14 @@ Student Record Manager v1.0
 ## License
 
 MIT — free to use, fork, and learn from.
+
+## Screenshots
+
+### Menu and View List
+![Menu](screenshots/menu&viewlist.png)
+
+### Search and Delete
+![Search](screenshots/search&delete.png)
+
+### Sort and Exit
+![Sort](screenshots/sort&exit.png)
