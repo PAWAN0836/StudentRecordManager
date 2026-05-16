@@ -146,7 +146,7 @@ Student Record Manager v1.0
 
 ## Author
 
-**B PAAWAN KUMAR** — learning C# | [LinkedIn](www.linkedin.com/in/bairi-paawan-kumar-26bb4628b) | [GitHub](https://github.com/PAWAN0836)]
+**B PAAWAN KUMAR** — learning C# | [LinkedIn](https://www.linkedin.com/in/bairi-paawan-kumar-26bb4628b/) | [GitHub](https://github.com/PAWAN0836)]
 
 ---
 
